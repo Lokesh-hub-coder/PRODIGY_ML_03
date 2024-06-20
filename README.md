@@ -13,7 +13,7 @@ Implement a support vector machine (SVM) to classify images of cats and dogs fro
 
 ### Files Included
 - Jupyter Notebook (CatDog_Classification.ipynb): Contains code for data preprocessing, model training, and evaluation.
-- Dataset folder: Includes the Kaggle dataset divided into cat and dog image directories.
+- svm_classification.py: Includes the Kaggle dataset divided into cat and dog image directories.
 
 ## Guidelines
 - Task completed as part of Prodigy InfoTech's Machine Learning internship program.
