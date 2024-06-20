@@ -4,7 +4,7 @@ Task 3: Cat and Dog Image Classification using SVM
 This repository contains the implementation of an image classification model using Support Vector Machine (SVM) to classify images of cats and dogs. It was developed as part of the Machine Learning internship at Prodigy InfoTech.
 
 ## Task 03 Details
-### Task Description
+
 Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
 
 ### Approach
@@ -15,7 +15,4 @@ Implement a support vector machine (SVM) to classify images of cats and dogs fro
 - Jupyter Notebook (CatDog_Classification.ipynb): Contains code for data preprocessing, model training, and evaluation.
 - svm_classification.py: Includes the Kaggle dataset divided into cat and dog image directories.
 
-## Guidelines
-- Task completed as part of Prodigy InfoTech's Machine Learning internship program.
-- LinkedIn posts detailing the completion of the task required.
-- Certificates & LoR provided upon meeting program requirements.
+
